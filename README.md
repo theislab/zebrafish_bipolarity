@@ -9,7 +9,7 @@ Description for the notebooks are as follows:
 - scRNA_seq_mcSCRBseq_comparison.ipynb --> This notebook consists of quality control and preprocessing steps of the mcSCRBseq hair cells data that are additionally compared with the processed, filtered young hair cells from 10X for differential expression tests
 - scRNA_seq_integration.ipynb --> This notebook consists of scripts for the integration of 10X with Lush et al and to reproduce figures in our manuscript for the mapping between UHCPs
 
-The data has been deposited in GEO under accession number and 
+The data has been deposited in GEO under accession numbers GSE143663 and GSE144827.
 
 Please note that all the analyses were performed using Scanpy v1.4.4. To know versions of other packages used in this analysis please either check the respective notebooks or consult the methods and key resource table in the manuscript. Since packages are constantly upgraded as part of maintenance certain results may vary slighly based on versions and dependencies.
 
